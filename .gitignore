@@ -1,0 +1,9 @@
+node_modules/
+.verify-dist/
+state.json
+state.json.backup
+*.log
+
+/public/coder/
+/coder/.vite/
+/coder/.verify-dist/
